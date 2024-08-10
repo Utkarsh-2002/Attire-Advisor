@@ -1,6 +1,6 @@
 # **Attire Advisor**
 ---
-##**Overview**
+## **Overview**
 Attire Advisor is a cutting-edge clothing recommendation system that leverages Convolutional Neural Networks (CNN) to analyze user-uploaded images and suggest outfits that match the detected clothing items. Initially focused on image-based input, Attire Advisor recommends similar styles and complementary pieces. Future iterations of the project will expand to include additional inputs, such as occasion and personal style preferences, allowing for more tailored recommendations.
 
 ---

@@ -53,9 +53,10 @@ Attire Advisor is a cutting-edge clothing recommendation system that leverages C
 
 Below are snapshots of some of the features included in the Attire Advisor:
 
+![Screenshot (118)](https://github.com/user-attachments/assets/a6305b2d-1807-4997-a575-51942e2b962d)
 ![Screenshot (175)](https://github.com/user-attachments/assets/f353bb6e-9578-4315-a5bb-f48465256548)
 
-![Screenshot (118)](https://github.com/user-attachments/assets/a6305b2d-1807-4997-a575-51942e2b962d)
+
 
 ---
 
